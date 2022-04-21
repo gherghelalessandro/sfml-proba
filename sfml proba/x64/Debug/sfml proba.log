@@ -1,0 +1,9 @@
+﻿  Car.cpp
+  Optiuni.cpp
+C:\Users\Kryss\source\repos\sfml proba\sfml proba\Optiuni.cpp(19,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Source.cpp
+  enemies.cpp
+C:\Users\Kryss\source\repos\sfml proba\sfml proba\enemies.cpp(56,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  joc.cpp
+  Generating Code...
+  sfml proba.vcxproj -> C:\Users\Kryss\source\repos\sfml proba\x64\Debug\sfml proba.exe
